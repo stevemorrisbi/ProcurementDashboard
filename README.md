@@ -1,6 +1,10 @@
 # Procurement Dashboard
 ### Overview: This dashboard was created to present and filter stock purchases from the United States in order to dictate future investment.
 
+text blah blah blah
+
+----
+
 ![comcdashboard](https://user-images.githubusercontent.com/99413257/157911597-5b79de59-717c-4b7b-8358-e62741b9a855.gif)
 
 
