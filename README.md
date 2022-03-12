@@ -8,11 +8,11 @@ text blah blah blah
 ![comcdashboard](https://user-images.githubusercontent.com/99413257/157911597-5b79de59-717c-4b7b-8358-e62741b9a855.gif)
 
 
-Why is this COMC dashboard useful?
+Why is this COMC dashboard useful? 
 
 Why were certain metrics decided?
 
-How was the data cleaned?
+How was the data cleaned? The data is supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. There was a lot of collumns not needed to be visualised and these were removed in order to ensure maximum effiency in filtering back to the data source. 
 
 ![comc filtering-page-001](https://user-images.githubusercontent.com/99413257/157269295-779d2dbe-17e2-42c1-9fdf-1a3abf311814.jpg)
 
