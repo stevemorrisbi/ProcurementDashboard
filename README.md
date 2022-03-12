@@ -7,7 +7,8 @@ Date filtering was also a neccesity as it plays an important role in the timing 
 
 ----
 
-![comcdashboard](https://user-images.githubusercontent.com/99413257/157911597-5b79de59-717c-4b7b-8358-e62741b9a855.gif)
+![comc2dashboard](https://user-images.githubusercontent.com/99413257/158022693-d508a2f8-d755-4ae4-9293-8c2727745296.gif)
+
 
 
 The data is supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. Numerous collumns did not need visualising and these were removed in order to ensure maximum effiency in filtering back to the data source. 
