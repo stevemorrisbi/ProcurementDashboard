@@ -14,6 +14,8 @@ Why were certain metrics decided?
 
 How was the data cleaned? The data is supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. There was a lot of collumns not needed to be visualised and these were removed in order to ensure maximum effiency in filtering back to the data source. 
 
+The colour pallett for the design of this dashboard is based on the branding website used for procurement. 
+
 ![comc filtering-page-001](https://user-images.githubusercontent.com/99413257/157269295-779d2dbe-17e2-42c1-9fdf-1a3abf311814.jpg)
 
 
