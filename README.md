@@ -11,7 +11,7 @@ Date filtering was also a neccesity as it plays an important role in the timing 
 
 
 
-The data is supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. Numerous collumns did not need visualising and these were removed in order to ensure maximum effiency in filtering back to the data source. 
+The data is supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. Numerous columns did not need visualising and these were removed in order to ensure maximum effiency in filtering back to the data source. 
 
 The simple colour pallett for the design of this dashboard is based on the branding website used for procurement. 
 
