@@ -1,5 +1,5 @@
-# Procurement Dashboard
-### Overview: This dashboard was created to present and filter stock purchases from the United States in order to dictate future investment.
+# Procurement Report
+### Overview: This report was created to present and filter stock purchases from the United States in order to dictate future investment.
 
 The metrics displayed were decided upon to to best help inform further procurement. Purchases need to fit in line with the current business model and price positioning in the market - ensuring a diversification across players and sports as well as keeping the average cost per item down. 
 
@@ -13,7 +13,7 @@ Date filtering was also a neccesity as it plays an important role in the timing 
 
 The data is supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. Numerous columns did not need visualising and these were removed in order to ensure maximum effiency in filtering back to the data source. 
 
-The simple colour pallett for the design of this dashboard is based on the branding website used for procurement. 
+The simple colour pallett for the design of this report is based on the branding website used for procurement. 
 
 ![comc filtering-page-001](https://user-images.githubusercontent.com/99413257/157269295-779d2dbe-17e2-42c1-9fdf-1a3abf311814.jpg)
 
