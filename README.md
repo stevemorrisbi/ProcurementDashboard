@@ -11,7 +11,7 @@ Date filtering was also a neccesity as it plays an important role in the timing 
 
 
 
-The data is supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. Numerous columns did not need visualising and these were removed in order to ensure maximum effiency in filtering back to the data source. 
+The data was supplied as a CSV and was cleaned in Excel prior to being imported into Power BI. Numerous columns did not need visualising and these were removed in order to ensure maximum effiency in filtering the data. 
 
 The simple colour pallett for the design of this report is based on the branding website used for procurement. 
 
@@ -19,6 +19,6 @@ The simple colour pallett for the design of this report is based on the branding
 
 
 ### Further Work:
-A useful development would be the ability to compare the metric cards between two different player selections (potentially expanding on the Top 15 available currently).
+A useful development to the report would be the ability to compare the metric cards between two different player selections (also expanding on the Top 15 available currently).
 An introduction of a date hierachy may prove useful with the ability to then drill down on the spend by month visualisation. 
 Visualations for the data of 'release date for the items purchased' and 'brand type' may also provide useful insights by further filtering the data. 
